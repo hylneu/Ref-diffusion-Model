@@ -12,5 +12,5 @@ At least 1x16GB NVIDIA GPU
 ```bash train.sh```
 
 ## datasets
-Download the DreamBench Dataset and extract them to data/\
+Download the [DreamBench Dataset](https://github.com/google/dreambooth)and extract them to data/\
 Download Pretrained Model Stable Diffusion 2-1
