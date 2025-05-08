@@ -3,14 +3,14 @@
 ## Requirements
 
 ```
-- pip install diffusers(0.23.1)
-- pip install open_clip_torch
-- pip install torchvision
-- At least 1x16GB NVIDIA GPU
+ pip install diffusers(0.23.1)
+ pip install open_clip_torch
+ pip install torchvision
+ At least 1x16GB NVIDIA GPU
 ```
 ## Training
 
-```- bash train.sh```
+``` bash train.sh```
 
 ## Datasets
 Download the [DreamBench Dataset](https://github.com/google/dreambooth)and extract them to dataset/\
