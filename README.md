@@ -1,5 +1,6 @@
+# Ref-Diffusion - Subject-driven Personalized Text-to-Image Generation
 
-## requirements
+## Requirements
 
 ```
 pip install diffusers(0.23.1)
@@ -11,6 +12,6 @@ At least 1x16GB NVIDIA GPU
 
 ```bash train.sh```
 
-## datasets
+## Datasets
 Download the [DreamBench Dataset](https://github.com/google/dreambooth)and extract them to dataset/\
 Download Pretrained Model [Stable Diffusion 2-1](https://huggingface.co/stabilityai/stable-diffusion-2-1-base/tree/main)
